@@ -1,2 +1,2 @@
 # Cackle
-Android app get and share funny memes  
+Android app to get and share funny memes  
